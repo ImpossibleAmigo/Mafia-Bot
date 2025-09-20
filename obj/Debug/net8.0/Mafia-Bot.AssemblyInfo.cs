@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mafia-Bot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9eae81c478df7f5898fe2c28a9a914d71a3b6ed2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e5242c1acfca8c9e8dde1178b33a75c183cc10e5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mafia-Bot")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mafia-Bot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -12,3 +12,4 @@ C:\Users\user\Desktop\Mafia-Bot\obj\Debug\net8.0\refint\Mafia-Bot.dll
 C:\Users\user\Desktop\Mafia-Bot\obj\Debug\net8.0\Mafia-Bot.pdb
 C:\Users\user\Desktop\Mafia-Bot\obj\Debug\net8.0\Mafia-Bot.genruntimeconfig.cache
 C:\Users\user\Desktop\Mafia-Bot\obj\Debug\net8.0\ref\Mafia-Bot.dll
+C:\Users\user\Desktop\Mafia-Bot\obj\Debug\net8.0\Mafia-Bot.sourcelink.json

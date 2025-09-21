@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Mafia-Bot\bin\Debug\net8.0\Mafia-Bot.exe
+C:\Users\user\Desktop\Mafia-Bot\bin\Debug\net8.0\Mafia-Bot.deps.json
+C:\Users\user\Desktop\Mafia-Bot\bin\Debug\net8.0\Mafia-Bot.runtimeconfig.json
+C:\Users\user\Desktop\Mafia-Bot\bin\Debug\net8.0\Mafia-Bot.dll
+C:\Users\user\Desktop\Mafia-Bot\bin\Debug\net8.0\Mafia-Bot.pdb
+C:\Users\user\Desktop\Mafia-Bot\obj\Debug\net8.0\Mafia-Bot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Mafia-Bot\obj\Debug\net8.0\Mafia-Bot.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Mafia-Bot\obj\Debug\net8.0\Mafia-Bot.AssemblyInfo.cs
+C:\Users\user\Desktop\Mafia-Bot\obj\Debug\net8.0\Mafia-Bot.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Mafia-Bot\obj\Debug\net8.0\Mafia-Bot.dll
+C:\Users\user\Desktop\Mafia-Bot\obj\Debug\net8.0\refint\Mafia-Bot.dll
+C:\Users\user\Desktop\Mafia-Bot\obj\Debug\net8.0\Mafia-Bot.pdb
+C:\Users\user\Desktop\Mafia-Bot\obj\Debug\net8.0\Mafia-Bot.genruntimeconfig.cache
+C:\Users\user\Desktop\Mafia-Bot\obj\Debug\net8.0\ref\Mafia-Bot.dll
+C:\Users\user\Desktop\Mafia-Bot\obj\Debug\net8.0\Mafia-Bot.sourcelink.json
